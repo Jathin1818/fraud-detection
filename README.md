@@ -1,5 +1,5 @@
 # Fraud Detection System
-[axialnet](axialnet.in)
+
 ## Overview
 
 This project implements a **fraud detection system** for financial transactions using **XGBoost**. The system can detect fraudulent transactions, flag suspicious transfers, and provide insights into transaction patterns.
